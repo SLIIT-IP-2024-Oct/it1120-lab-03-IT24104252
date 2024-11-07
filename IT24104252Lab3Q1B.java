@@ -20,6 +20,6 @@ totalAmount = pricePerKg * quantity;
  finalAmount = totalAmount - discountTotal;
  
 System.out.println();
-System.out.println("The total amount with 10% discount is: + finalAmount");
+System.out.println("The total amount with 10% discount is:" + finalAmount);
   }
 }
