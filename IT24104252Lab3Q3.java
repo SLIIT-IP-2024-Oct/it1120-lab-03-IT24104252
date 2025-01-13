@@ -72,7 +72,7 @@ public class IT24104252Lab3Q3{
         System.out.println("2 Coins : " + count2);
         System.out.println("1 Coins : " + count1);
 
-        input.close();
+        
 	
 	
 	
